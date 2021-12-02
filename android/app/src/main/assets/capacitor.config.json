@@ -1,0 +1,6 @@
+{
+	"appId": "com.AuthorizeApp",
+	"appName": "AuthorizeApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

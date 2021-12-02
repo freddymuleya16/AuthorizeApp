@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "AuthorizeApp",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "com.AuthorizeApp",
+  "appName": "AuthorizeApp",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
